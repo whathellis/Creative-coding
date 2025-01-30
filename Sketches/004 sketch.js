@@ -24,13 +24,13 @@ function draw() {
   circle(mouseX, mouseY, 20);
 
 
-  x = x + xdirection;
+  x = x + ererer;
 	y = y + ydirection; 
  
-  if (x > 500 - d ) {xdirection += -2;  cColour = lerpColor(cColour, tColour, 0.025);
+  if (x > 500 - d ) {ererer += -2;  cColour = lerpColor(cColour, tColour, 0.025);
     currentColour = lerpColor(currentColour, targetColour, 0.025);}
   if (y > 500 - d ) {ydirection += -1;}
-  if (x < 0 + d/2 ) {xdirection += 3;}
+  if (x < 0 + d/2 ) {ererer += 3;}
   if (y < 0 + d/2 ) {ydirection += 1;}
 
 

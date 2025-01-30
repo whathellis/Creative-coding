@@ -5,8 +5,13 @@
     "value": "# Welcome to your p5.js Notebook"
   },
   {
+    "kind": 1,
+    "language": "markdown",
+    "value": "$hi$\r\n***i don't know what I am doing***"
+  },
+  {
     "kind": 2,
     "language": "javascript",
-    "value": "let b=0;\r\nconst d = [\r\n  10,\r\n  11,\r\n  12,\r\n  13,\r\n  14,\r\n  15,\r\n  16,\r\n  17,\r\n  18,\r\n  19,\r\n  20,\r\n];\r\n\r\nfunction setup() {\r\n  createCanvas(500, 500);\r\n  background(220,220,224);\r\n\r\n}\r\n\r\nfunction draw() {\r\n\r\n\r\n\r\n  circle(mouseX, mouseY, b);\r\n  strokeWeight(0);\r\n  if(mouseIsPressed){ b = random(d); fill(0,0,0); \r\n\r\n  } \r\n  else { b = 0; fill(220,220,224);}\r\n}\r\n"
+    "value": "let b = 0;\r\nconst d = [10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20];\r\n\r\nfunction setup() {\r\n  createCanvas(500, 500);\r\n  background(220, 220, 224);\r\n}\r\n\r\nfunction draw() {\r\n  circle(mouseX, mouseY, b);\r\n  strokeWeight(0);\r\n  if (mouseIsPressed) {\r\n    b = random(d);\r\n    fill(0, 0, 0);\r\n  } else {\r\n    b = 0;\r\n    fill(220, 220, 224);\r\n  }\r\n}\r\n"
   }
 ]
