@@ -13,5 +13,6 @@
 - [ ] CSS
 - [ ] JavaScript
 #### Projects:
-- [x] [Single-page CV](https://roadmap.sh/projects/single-page-cv): [my CV](https://whathellis.github.io/Homework/001.html)
+- [x] [Single-page CV](https://roadmap.sh/projects/single-page-cv)
+- [Here it is](https://whathellis.github.io/Creative-coding/Homework/001.html)
 - [ ] 
