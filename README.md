@@ -13,6 +13,5 @@
 - [ ] CSS
 - [ ] JavaScript
 #### Projects:
-- [ ] [Single-page CV](https://roadmap.sh/projects/single-page-cv)
-- [ ] ...
-- [ ]...
+- [x] [Single-page CV](https://roadmap.sh/projects/single-page-cv): 
+- [ ] 
