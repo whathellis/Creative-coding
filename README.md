@@ -7,7 +7,7 @@ my attempts to learn to code
 
 # [Roadmap.sh](https://roadmap.sh/)
 
-[![roadmap.sh](https://roadmap.sh/card/wide/679e828fd7c9b4cc8b1a7e7b?variant=light&roadmaps=66084173da1671f986e3d066%2Cgit-github%2Cux-design)](https://roadmap.sh)
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/679e828fd7c9b4cc8b1a7e7b?variant=dark" alt="roadmap.sh"/></a>
 
 ## Roadmaps:
 - [ ] [Full Stack Developer](https://roadmap.sh/full-stack?s=679e828fd7c9b4cc8b1a7e7b)
